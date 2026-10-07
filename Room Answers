@@ -1,0 +1,21 @@
+---
+
+ # Room Answers
+
+ | Task | Question | Answer |
+| --- | --- | --- |
+| Task 2 | First phase of an AD attack chain | **Breaching** |
+| Task 2 | TCP 88 authentication service | **Kerberos** |
+| Task 3 | Valid usernames discovered | **42** |
+| Task 3 | Username format | **first.last** |
+| Task 4 | `svc.jenkins` password | **Jen5k1ns2025!** |
+| Task 4 | Jenkins leaked default password | **MegaCorp01!** |
+| Task 5 | Accounts cracked | **2** |
+| Task 5 | First account alphabetically | **alice.moore** |
+| Task 6 | LDAP Bind DN | **CN=svc.ldap,OU=Service Accounts,DC=thm,DC=loc** |
+| Task 6 | LDAP passback password | **Pr1ntBind2025!** |
+| Task 6 | `sarah.jones` password | **Trustno1** |
+| Task 7 | NTLMv2 Group Policy setting | **Network Security: LAN Manager authentication level** |
+| Task 7 | Encrypted LDAP port | **636** |
+
+---
